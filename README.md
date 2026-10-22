@@ -80,6 +80,3 @@ Selenium WebDriver was used to interact with the website. Python assertions were
 
 pytest generated test execution results, and screenshots were captured during testing. The automated testing evidence is documented in the Assignment 3 report.
 
-## 8. AI Assistance
-
-AI assistance was used to support test script development, debugging and code review. The suggested code was reviewed, adjusted and executed in the local testing environment. The test outcomes were verified using pytest results and manual observations.
